@@ -4,6 +4,7 @@
 !*.*
 *.d
 .vscode
+!Dockerfile
 
 # Object files
 *.o
